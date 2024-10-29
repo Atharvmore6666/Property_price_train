@@ -98,6 +98,6 @@ Feature Engineering: Selecting relevant features, standardizing continuous varia
 Modeling: Implemented Linear Regression and XGBoost models, evaluating metrics such as R-squared, Adjusted R-squared, MSE, RMSE, and MAPE.
 Results
 ## Linear Regression: R-squared: 0.858, Adj. R-squared: 0.848, RMSE: 38,288, MAPE: 11.47%
-## XGBoost: R-squared: 0.9999, Adj. R-squared: 0.9999, RMSE: 38,078
+## XGBoost: R-squared: 0.9999, Adj. R-squared: 0.9999, RMSE: 38,078 ,MAPE : 9.72%
 # Conclusion
 The XGBoost model shows high accuracy for property price predictions, suitable for real estate price estimation. Future work may involve refining features to enhance model robustness and testing across different regions.
